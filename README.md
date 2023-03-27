@@ -3,7 +3,11 @@
 ## App image 
 ![image](https://user-images.githubusercontent.com/11816618/227930155-0a7c383e-750e-480c-b5d6-d2d115b2f960.png)
 
-
+## What you will learn
+How to use the DropdownButton Widget from Material design.
+How to loop through code using Dart for and for-in loops.
+How to use Cupertino Widgets in your app.
+How to check the platform your app is being run on to customise the UI for that platform.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
