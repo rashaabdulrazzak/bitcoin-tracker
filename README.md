@@ -1,6 +1,8 @@
 # bitcoin_tracker
+ a crypto currency price checking app. You'll be able to monitor your bitcoin investents on the move!
+## App image 
+![image](https://user-images.githubusercontent.com/11816618/227930155-0a7c383e-750e-480c-b5d6-d2d115b2f960.png)
 
-A new Flutter project.
 
 ## Getting Started
 
